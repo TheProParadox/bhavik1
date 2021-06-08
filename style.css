@@ -51,6 +51,7 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
+    font-family: 'Poppins' , sans-serif;
 }
 #header-section3-div{
     color: white;
@@ -144,6 +145,7 @@ footer{
     font-size: 25px;
      color: white;
      font-family: 'Gugi';
+     src:url('./fonts/Gugi-Regular.ttf') format('truetype')
 }
 
 @media screen and (max-width:768px){
