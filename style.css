@@ -145,7 +145,7 @@ footer{
     font-size: 25px;
      color: white;
      font-family: 'Gugi';
-     src:url('./fonts/Gugi-Regular.ttf') format('truetype')
+     src:url('../fonts/Gugi-Regular.ttf') format('truetype')
 }
 
 @media screen and (max-width:768px){
